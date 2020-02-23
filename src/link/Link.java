@@ -17,4 +17,8 @@ public class Link {
         this.cNumberArray = cNumberArray;
         this.eMAddress = eMAddress;
     }
+
+    public void displayLink() {
+
+    }
 }
