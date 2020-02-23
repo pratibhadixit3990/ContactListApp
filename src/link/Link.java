@@ -41,4 +41,8 @@ public class Link {
             System.out.println("Email address:" + eMAddress);
         }
     }
+
+    public void displayLinkDeletion() {
+
+    }
 }
