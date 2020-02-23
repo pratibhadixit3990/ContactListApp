@@ -8,4 +8,5 @@ public class Link {
 
     public String[] cNumberArray = new String[100];
 
+    public String eMAddress;
 }
