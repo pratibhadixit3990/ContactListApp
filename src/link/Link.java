@@ -1,7 +1,6 @@
 package link;
 
 public class Link {
-
     public int iData = 1;
 
     public String fName, lName;
@@ -9,4 +8,6 @@ public class Link {
     public String[] cNumberArray = new String[100];
 
     public String eMAddress;
+
+    public Link next;
 }
