@@ -21,6 +21,10 @@ public class Person {
 
     }
 
+    private void contactView() {
+
+    }
+
 
     private static boolean validatePhoneNumber(String phoneNo) {
         //validate phone numbers of format "1234567890"
