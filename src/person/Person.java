@@ -17,10 +17,8 @@ public class Person {
 
     String eMAddress = "";
 
-    private void exitingContactListApp() {
-        System.out.println();
-        System.out.println("Thanks for using the Contact List App. Visit Again!!");
-        System.exit(0);
+    private void contactAddition() {
+
     }
 
 
