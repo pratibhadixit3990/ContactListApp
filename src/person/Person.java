@@ -15,4 +15,6 @@ public class Person {
 
     String[] cNumberArray = new String[100];
 
+    String eMAddress = "";
+
 }
