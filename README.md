@@ -11,7 +11,7 @@ Press 1 to add a new contact
 Press 2 to view all contacts
 Press 3 to search for a contact
 Press 4 to delete a contact
-Press 5 to exit program 
+Press 5 to exit program
 The 'Add a new contact menu'
 You have chosen to add a new contact: 
 Please enter the name of the Person
