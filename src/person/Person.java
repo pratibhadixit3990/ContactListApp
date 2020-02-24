@@ -17,6 +17,13 @@ public class Person {
 
     String eMAddress = "";
 
+    private void exitingContactListApp() {
+        System.out.println();
+        System.out.println("Thanks for using the Contact List App. Visit Again!!");
+        System.exit(0);
+    }
+
+
     private static boolean validatePhoneNumber(String phoneNo) {
         //validate phone numbers of format "1234567890"
         if (phoneNo.matches("\\d{10}")) return true;
