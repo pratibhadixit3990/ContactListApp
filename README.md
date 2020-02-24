@@ -1,7 +1,9 @@
 # ContactListApp
 GLA University, 2020
 Contact Lists
-Create a menu-driven program to emulate a Contact Lists Application. You might see such apps in smartphones, you are free to go ahead and take ideas from your own contact applications.
+Create a menu-driven program to emulate a Contact Lists Application. You might see such apps in smartphones, you are free to go ahead
+and take ideas from your own contact applications.
+
 Your menu-driven program must look like:
 
 Welcome to DBC's Contact List App
@@ -49,7 +51,8 @@ Email address: robin@blue.genie
 
 Information about the view all contacts menu
 1.	No matter how the user adds the contacts in the list, they should always be alphabetically ordered on the basis of the first name.
-2.	If the Person has only one contact number, then the contact card should show the number field as Number only. If the Person has multiple contacts, then it should show Number(s).
+2.	If the Person has only one contact number, then the contact card should show the number field as Number only. If the Person has
+multiple contacts, then it should show Number(s).
 ________________________________________
 
 The search for a contact menu
@@ -62,6 +65,7 @@ Last Name: Carrey
 Contact Number(s): 1547852369, 1452879632
 Email address: jim@ace.ventura
 -------- * -------- * -------- * --------
+
 Information about the above menu
 1.	There can be multiple Person objects with the same name, in such a case, show all the matches.
 2.	If nothing is found, print NO RESULTS FOUND!
